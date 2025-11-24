@@ -425,9 +425,7 @@ h1::after {
   background: var(--primary-blue);
 }
 
-/* Profile image style from existing file */
 .profile-image {
-  float: left;
   margin: 0 2rem 1.5rem 0;
   border: 3px solid var(--primary-black);
   box-shadow: 8px 8px 0 var(--primary-green);

@@ -538,6 +538,11 @@ footer {
   border-radius: 6px;
 }
 
+.gist {
+  max-height: 300px;
+  overflow-y: auto !important;
+}
+
 /* Responsive Design - combine and keep latest breakpoints and adjustments */
 @media (max-width: 992px) {
   .brand-name { font-size: 2rem; }

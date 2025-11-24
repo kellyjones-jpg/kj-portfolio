@@ -543,6 +543,10 @@ footer {
   overflow-y: auto !important;
 }
 
+.lead {
+  font-size: 1.15rem;
+}
+
 /* Responsive Design - combine and keep latest breakpoints and adjustments */
 @media (max-width: 992px) {
   .brand-name { font-size: 2rem; }

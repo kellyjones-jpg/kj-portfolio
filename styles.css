@@ -313,10 +313,10 @@
       height: 3px;
       background: repeating-linear-gradient(
         90deg,
-        var(--primary-black) 0px,
-        var(--primary-black) 10px,
-        var(--primary-red) 10px,
-        var(--primary-red) 20px
+        #FFD100 0px,
+        #FFD100 10px,
+        #ffffff 10px,
+        #ffffff 20px
       );
       margin: 2rem 0;
     }

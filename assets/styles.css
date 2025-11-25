@@ -157,6 +157,7 @@ header {
 
 .white-txt {
   color: #fff;
+  font-size: 0.75rem;
 }
 
 /* Navigation */
@@ -440,8 +441,8 @@ h1::after {
 /* Paragraph styling from existing file */
 p {
   font-size: 1.05rem;
-  line-height: 1.8;
-  margin-bottom: 1.5rem;
+  line-height: 1.5;
+  margin-bottom: 1.25rem;
   color: #333;
 }
 

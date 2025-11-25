@@ -200,6 +200,15 @@ nav a:hover::before {
   width: 100%;
 }
 
+nav a.active {
+  color: var(--primary-red);
+}
+
+nav a.active::before {
+  content: '';
+  width: 100%;
+}
+
 /* Main Content / Page title */
 .main-content {
   position: relative;

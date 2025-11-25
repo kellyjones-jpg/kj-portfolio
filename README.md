@@ -1,3 +1,3 @@
 # My Portfolio
 
-Explore my work in creative coding, frontend development, data visualization, and UX-driven problem solving.
+Explore my work across interactive data visualizations, creative coding, 3D animation, and UX‑driven problem solving.

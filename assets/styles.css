@@ -245,7 +245,7 @@ h1::after {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 2.5rem;
-  margin-top: 3rem;
+  margin-top: 1rem;
 }
 
 .nav-card {

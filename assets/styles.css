@@ -126,7 +126,6 @@ header {
   font-size: 2.5rem;
   font-weight: 900;
   letter-spacing: -1px;
-  text-transform: uppercase;
   color: var(--primary-black);
   text-decoration: none;
   display: inline-block;
